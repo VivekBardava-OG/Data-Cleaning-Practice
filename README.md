@@ -20,7 +20,9 @@ Data cleaning is a critical step in any data science pipeline, as the quality of
 - **IDE:** VS Code
 - **Libraries:**
   - `pandas`: For data manipulation and cleaning.
- 
+  - `numpy`: For numerical operations.
+  - `matplotlib` / `seaborn`: For visualizing missing data and outliers.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
