@@ -1,0 +1,31 @@
+# --- Data Files (The most common cause of large commits) ---
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.sql
+*.sqlite
+*.zip
+*.gz
+*.tar
+
+# If you keep all your data in a specific folder, you can just ignore the whole folder:
+# data/
+# datasets/
+
+# --- Python / Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# --- IDEs and OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
